@@ -1,7 +1,7 @@
 <img src="Editor/Resources/quickpathicon.svg" width="64" height="64"/>
 
 ## About
-QuickPath is a editor tool that allows you to set up directories as menu items for quick and easy access to important folders.
+QuickPath is a Unity editor tool that adds directories as menu items for quick access to important folders.
 
 ## Download
 You can grab the latest unity package from the [release section]()
